@@ -9,7 +9,8 @@ Predict future stock prices with a deep-learning model using stacked LSTM networ
 This project implements a **stacked Long Short-Term Memory (LSTM)** neural network to forecast stock prices. We use historical stock data to train a sequence-to-one regression model, evaluating performance using **Mean Absolute Error (MAE)** and **Huber loss**.
 
 ---
-<img width="969" height="374" alt="Screenshot 2025-08-25 at 1 16 40 PM" src="https://github.com/user-attachments/assets/31b338a4-d7ab-4ae7-abd4-953e89663d0c" />
+<img width="920" height="391" alt="Screenshot 2025-08-25 at 1 16 26 PM" src="https://github.com/user-attachments/assets/c88b72d0-0669-4005-8260-3b1c6385a191" />
+
 <img width="969" height="374" alt="Screenshot 2025-08-25 at 1 16 40 PM" src="https://github.com/user-attachments/assets/aba5d630-87fd-41c5-bcbc-1597a29e72e0" />
 
 
